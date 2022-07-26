@@ -2,14 +2,15 @@ Kampus Merdeka x BANGKIT 2022
 # 04. Google Cloud Computing Fondations
 Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempat  
 
-11-25 Maret 2022  
-1.  Google Cloud Computing Foundations: Cloud Computing Fundamentals
-    * Welcome to the Course
+**11-25 Maret 2022**  
+
+**1.  Google Cloud Computing Foundations: Cloud Computing Fundamentals**  
+   * Welcome to the Course
       * DOCUMENT Welcome to the course!
       * VIDEO Course Introduction
       * VIDEO Course Objectives
       
-    * So, What’s the Cloud Anyway?
+   * So, What’s the Cloud Anyway?
       * VIDEO Module 1 Introduction
       * VIDEO Cloud Computing
       * VIDEO Cloud vs. Traditional Architecture
@@ -18,7 +19,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ So What's The Cloud Anyway?
       * VIDEO Module 1 Summary
       
-    * Start with a Solid Platform
+   * Start with a Solid Platform
       * VIDEO Module 2 Introduction
       * VIDEO The Google Cloud Console
       * VIDEO Understanding Projects
@@ -33,8 +34,8 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * VIDEO Cloud Console Mobile App
       * QUIZ Start with a Solid Platform
       * VIDEO Module 2 Summary
-    
-    * Use Google Cloud to Build Your Apps
+      
+   * Use Google Cloud to Build Your Apps
       * VIDEO Module 3 Introduction
       * VIDEO Compute Options in the Cloud
       * VIDEO Exploring IaaS with Compute Engine
@@ -54,8 +55,8 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * VIDEO Module 3 Summary
       * DOCUMENT Demonstrate your capabilities further!
   
-2.  Google Cloud Computing Foundations: Infrastructure in Google Cloud
-    * Where Do I Store This Stuff?
+**2.  Google Cloud Computing Foundations: Infrastructure in Google Cloud**  
+   * Where Do I Store This Stuff?
       * DOCUMENT Welcome to the course!
       * VIDEO Module 4 Introduction
       * VIDEO Storage Options in the Cloud
@@ -73,7 +74,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ Where Do I Store This Stuff?
       * VIDEO Module 4 Summary
       
-    * There’s an API for That!
+   * There’s an API for That!
       * VIDEO Module 5 Introduction
       * VIDEO The Purpose of APIs
       * VIDEO Cloud Endpoints
@@ -87,7 +88,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ There's an API for That!
       * VIDEO Module 5 Summary
       
-    * You Can’t Secure the Cloud, Right?
+   * You Can’t Secure the Cloud, Right?
       * VIDEO Module 6 Introduction
       * VIDEO Introduction to Security in the Cloud
       * VIDEO The Shared Security Model
@@ -102,8 +103,8 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * VIDEO Module 6 Summary
       * DOCUMENT Demonstrate your capabilities further!
  
- 3. Google Cloud Computing Foundations: Networking and Security in Google Cloud
-    * It Helps to Network
+ **3. Google Cloud Computing Foundations: Networking and Security in Google Cloud**  
+   * It Helps to Network
       * DOCUMENT Welcome to the course!
       * VIDEO Module 7 Introduction
       * VIDEO Introduction to Networking in the Cloud
@@ -129,7 +130,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ It Helps to Network
       * VIDEO Module 7 Summary
       
-    * Let Google Keep an Eye on Things
+   * Let Google Keep an Eye on Things
       * VIDEO Module 8 Introduction
       * VIDEO Introduction to Infrastructure as Code (IaC)
       * VIDEO Cloud Deployment Manager
@@ -140,8 +141,8 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * VIDEO Module 8 Summary
       * DOCUMENT Demonstrate your capabilities further!
     
-4. Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
-    * You Have the Data, but What Are You Doing with It?
+**4. Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**  
+   * You Have the Data, but What Are You Doing with It?
       * DOCUMENT Welcome to the course!
       * VIDEO Module 9 Introduction
       * VIDEO Intro to Big Data Managed Services in the Cloud
@@ -160,7 +161,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ Let Google Keep an Eye on Things
       * VIDEO Module 9 Summary
       
-    * Let Machines Do the Work
+   * Let Machines Do the Work
       * VIDEO Module 10 Introduction
       * VIDEO Introduction to Machine Learning
       * VIDEO Machine Learning and Google Cloud
@@ -179,6 +180,6 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempa
       * QUIZ Let Machines Do the Work
       * VIDEO Module 10 Summary
       
-    * Course Summary
+  * Course Summary
       * DOCUMENT Demonstrate your capabilities further!
       * VIDEO Course Summary
