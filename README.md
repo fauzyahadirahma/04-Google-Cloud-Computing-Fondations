@@ -1,5 +1,5 @@
 Kampus Merdeka x BANGKIT 2022
-# 04-Google-Cloud-Computing-Fondations
+# 04. Google Cloud Computing Fondations
 Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempat  
 
 11-25 Maret 2022  
